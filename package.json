@@ -16,12 +16,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/readyplayerme/visage.git"
+    "url": "git+https://github.com/metalclaw/readyplayerme-visage.git"
   },
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/readyplayerme/visage/issues"
-  },
   "main": "./dist/index.cjs.js",
   "module": "./dist/index.esm.js",
   "files": [
